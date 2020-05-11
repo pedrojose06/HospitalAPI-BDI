@@ -1,4 +1,4 @@
-# Projeto BDI CRUD Hospital em Angular 8 e Node.js, Express, Sequelize em MySQL
+# Projeto BDI CRUD Hospital em Node.js, Express, Sequelize em MySQL
 
 ## Instalação API
 
