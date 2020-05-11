@@ -9,7 +9,7 @@ Executar na pasta /HospitalAPI
 
 > $ yarn
 
-<b>Editar as credenciais no arquivo /src/config/database.js<b>
+<b>Editar as credenciais no arquivo /src/config/database.js</b>
 
 `Criando o banco`
 
