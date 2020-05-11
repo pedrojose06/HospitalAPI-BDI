@@ -3,11 +3,13 @@
 ## Instalação API
 
 Executar na pasta /HospitalAPI
+
+
 `Instalando as dependencias`
 
 > $ yarn
 
-`Editar as credenciais no arquivo /src/config/database.js`
+<b>Editar as credenciais no arquivo /src/config/database.js<b>
 
 `Criando o banco`
 
